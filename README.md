@@ -18,7 +18,7 @@ echo '{"left":{"x":100, "y":100}, "ope":"Mul" , "right":{"x":150, "y":2}}' | was
 
 ### Use Cloudflare Workers
 
-! This sample size is over 1MiB !
+! This sample size is over 1MB !
 
 Run worker
 
