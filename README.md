@@ -10,7 +10,7 @@ cargo build --target wasm32-wasi --release
 
 ## Run
 
-### Use wasmtime
+### Use Wasmtime
 
 ```
 echo '{"left":{"x":100, "y":100}, "ope":"Mul" , "right":{"x":150, "y":2}}' | wasmtime target/wasm32-wasi/release/cfw-wasi.wasm
